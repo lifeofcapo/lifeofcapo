@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM4MHE4dTlzMGx0NHhqNzB5M3BvZ2M3Z3MzdHZucXc5dmh6d3lkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ktcUyw6mBlMVa/giphy.gif" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZsZzA5em4yM2sxaHhtd2cxYjJwNTh0bDd5MWFrcTJhYjhqY3MwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
   <h1>Привет! 👋</h1>
   <a href="mailto:timecuresboy@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
