@@ -1,21 +1,21 @@
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZsZzA5em4yM2sxaHhtd2cxYjJwNTh0bDd5MWFrcTJhYjhqY3MwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
-  <h1>Привет! 👋</h1>
+  <h1>Hi! 👋</h1>
 </div>
 
 ---
 
-## 🧠 Обо мне
+## 🧠 About me
 
-🚀 Мне 21 год, я Fullstack Web разработчик.
+🚀 I'm 21 years old, I am Fullstack Web Developer.
 
-🎯 Постоянно прокачиваюсь в backend и frontend технологиях. Увлекаюсь чистым кодом, архитектурой приложений и работой с API.
+🎯 Constantly learning backend and frontend technologies. I like clean code, clean architecture and work with API.
 
-🌍 Изучаю и применяю современные инструменты и лучшие практики веб-разработки.
+🌍 Studying and applying modern technologies and practices of web developing.
 
 ---
 
-## 💻 Технологии и стек
+## 💻 Technologies and stack
 
 ### 🔙 Backend:
 
@@ -26,24 +26,24 @@
 
 * Next.js + React
 * TypeScript
-* Tailwind CSS
+* Websocket
 * Sass / SCSS
 
 ---
 
-## 🎯 Цели
+## 🎯 Goals
 
-* Углубить знания в архитектуре веб-приложений
-* Работать над крупными проектами
-* Стать частью сильной команды
+* Gain deep knowledge in web-developing
+* Work on massive projects
+* Be part of a great team
 
 ---
 
-## 📬 Связь
+## 📬 Contaact me 
 
 * Gmail: [timecuresboy@gmail.com](mailto:timecuresboy@gmail.com)
 * Telegram: [@lifeofcapo](https://t.me/lifeofcapo)
 
 ---
 
-> ⭐️ Открыт к сотрудничеству и новым проектам!
+> ⭐️ Open to any deals and new projects!
