@@ -1,12 +1,6 @@
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZsZzA5em4yM2sxaHhtd2cxYjJwNTh0bDd5MWFrcTJhYjhqY3MwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
   <h1>Привет! 👋</h1>
-  <a href="mailto:timecuresboy@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/lifeofcapo">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
 </div>
 
 ---
