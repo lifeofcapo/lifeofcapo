@@ -8,9 +8,7 @@
 ## 🧠 About me
 
 🚀 I'm 21 years old, I am Fullstack Web Developer.
-
 🎯 Constantly learning backend and frontend technologies. I like clean code, clean architecture and work with API.
-
 🌍 Studying and applying modern technologies and practices of web developing.
 
 ---
@@ -59,3 +57,4 @@
 ---
 
 > ⭐️ Open to any deals and new projects!
+
