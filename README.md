@@ -6,17 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeofcapo&label=Profile%20views&color=0e75b6&style=flat" alt="lifeofcapo" /> </p>
 
-- 🔭 I’m currently working on **B2B2C Marketplace Platform**
+🔭 I’m currently working on **B2B2C Marketplace Platform**
 
-- 🌱 I’m currently learning **Next JS & React**
+🌱 I’m currently learning **Next JS & React**
 
-- 👯 I’m looking to collaborate on **Email Sending App**
+👯 I’m looking to collaborate on **Email Sending App**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lifeofcapo?tab=repositories](https://github.com/lifeofcapo?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/lifeofcapo?tab=repositories](https://github.com/lifeofcapo?tab=repositories)
 
-- 📫 How to reach me **timecuresboy@gmail.com**
-
-- ⚡ Fun fact **I born in Ukraine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,5 +33,6 @@
 ---
 
 > ⭐️ Open to any deals and new projects!
+
 
 
