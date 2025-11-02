@@ -29,11 +29,11 @@
 ## 📬 Contact me 
 
 * Gmail: [timecuresboy@gmail.com](mailto:timecuresboy@gmail.com)
-* Telegram: [@lifeofcapo](https://t.me/lifeofcapo)
 
 ---
 
 > ⭐️ Open to any deals and new projects!
+
 
 
 
