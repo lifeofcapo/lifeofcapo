@@ -22,9 +22,39 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+### 
 
+<div align="left">
+  <h5 align="left">Backend</h5>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=python&size=36&animation=wiggle" alt="python" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=express&size=36&animation=wiggle" alt="express" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=36&animation=wiggle" alt="postgresql" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=git&size=36&animation=wiggle" alt="git" /></a>
+  <h5 align="left">Frontend</h5>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=vue&size=36&animation=wiggle" alt="vue" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=react&size=36&animation=wiggle" alt="react" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=nextjs&size=36&animation=wiggle&color=%23ffffff" alt="nextjs" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=36&animation=wiggle" alt="typescript" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=tailwind&size=36&animation=wiggle" alt="tailwind" /></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=npm&size=36&animation=wiggle" alt="npm" /></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=36&animation=wiggle" alt="html5" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=36&animation=wiggle" alt="css3" /></a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=36&animation=wiggle" alt="javascript" /></a>
+  <h5 align="left">DevOps</h5>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=docker&size=36&animation=wiggle" alt="docker" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=bash&size=36&animation=wiggle" alt="bash" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=36&animation=wiggle" alt="linux" /></a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=nginx&size=36&animation=wiggle" alt="nginx" /></a>
+  <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=googlecloud&size=36&animation=wiggle" alt="googlecloud" /></a>
+
+###
+
+<h3 align="left">Team</h3>
+
+###
+
+<p align="left">Talanted Backend Developer <a href="https://github.com/aleksei778" target="_blank" rel="noreferrer">Aleksei</a>. Working together on massive projects.</p>
 
 ## 📬 Contact me 
 
@@ -33,6 +63,7 @@
 ---
 
 > ⭐️ Open to any deals and new projects!
+
 
 
 
