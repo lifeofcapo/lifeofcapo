@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.x1u/giphy.gif" />
+
 </div>
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">A Full-stack developer</h3>
@@ -61,6 +61,7 @@
 ---
 
 > ⭐️ Open to any deals and new projects!
+
 
 
 
