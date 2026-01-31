@@ -54,13 +54,8 @@
 
 <p align="left">Talanted Backend Developer <a href="https://github.com/aleksei778" target="_blank" rel="noreferrer">Aleksei</a>. Working together on massive projects.</p>
 
-## 📬 Contact me 
-
-* Gmail: [timecuresboy@gmail.com](mailto:timecuresboy@gmail.com)
-
----
-
 > ⭐️ Open to any deals and new projects!
+
 
 
 
