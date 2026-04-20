@@ -9,7 +9,7 @@
 
 ---
 
-🔭 I'm currently working on **B2B2C Marketplace Platform**
+🔭 I'm currently working on **VPN Service**
 
 🌱 I'm currently learning **Nest JS & Fast API**
 
