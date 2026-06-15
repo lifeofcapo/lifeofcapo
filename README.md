@@ -13,7 +13,7 @@
 
 🌱 I'm currently learning **Nest JS & Fast API**
 
-👯 I'm looking to collaborate on **Email Sending App**
+👯 I'm looking to collaborate on **Copyright Infridgement App**
 
 👨‍💻 All of my projects are available at [https://github.com/lifeofcapo?tab=repositories](https://github.com/lifeofcapo?tab=repositories)
 
