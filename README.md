@@ -15,8 +15,6 @@
 
 👯 I'm looking to collaborate on **Copyright Infridgement App**
 
-👨‍💻 All of my projects are available at [https://github.com/lifeofcapo?tab=repositories](https://github.com/lifeofcapo?tab=repositories)
-
 ---
 
 <div align="center">
