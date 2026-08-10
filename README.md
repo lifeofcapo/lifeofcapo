@@ -11,7 +11,7 @@
 
 🔭 I'm currently working on **VPN Service**
 
-🌱 I'm currently learning **Nest JS & Fast API**
+🌱 I'm currently learning **Nest JS**
 
 👯 I'm looking to collaborate on **Copyright Infridgement App**
 
