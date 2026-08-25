@@ -9,7 +9,7 @@
 
 ---
 
-🔭 I'm currently working on **VPN Service**
+🔭 I'm currently working on **VPN Service** & **Discord AI SaaS Platform**
 
 🌱 I'm currently learning **Nest JS**
 
