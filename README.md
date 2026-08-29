@@ -8,10 +8,10 @@
 </div>
 
 ---
+👨‍💻 I build production-oriented web applications, SaaS platforms,
+APIs and automation tools.
 
 🔭 I'm currently working on **VPN Service** & **Discord AI SaaS Platform**
-
-🌱 I'm currently learning **Nest JS**
 
 👯 I'm looking to collaborate on **Copyright Infridgement App**
 
