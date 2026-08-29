@@ -30,6 +30,21 @@ APIs and automation tools.
 
 </div>
 
+<div align="center">
+<h3>Project Management:</h3>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />
+<img src="https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="agile" />
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="scrum" />
+</div>
+
+<div align="center">
+<h3>Testing & Automation:</h3>
+<img src="https://img.shields.io/badge/pytest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="pytest" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="vitest" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" />
+</div>
+
 ---
 
 <div align="center">
