@@ -12,9 +12,6 @@
 APIs and automation tools.
 
 🔭 I'm currently working on **VPN Service** & **Discord AI SaaS Platform**
-
-👯 I'm looking to collaborate on **Copyright Infridgement App**
-
 ---
 
 <div align="center">
