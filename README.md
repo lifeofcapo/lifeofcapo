@@ -8,8 +8,8 @@
 </div>
 
 ---
-👨‍💻 I build production-oriented web applications, SaaS platforms,
-APIs and automation tools.
+👨‍💻 **I build production-oriented web applications, SaaS platforms,
+APIs and automation tools.**
 
 🔭 I'm currently working on **VPN Service** & **Discord AI SaaS Platform**
 ---
