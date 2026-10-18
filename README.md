@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Denis</h1>
 <h3>Full-stack developer</h3>
 
-<img src="https://komarev.com/ghpvc/?username=lifeofcapo&label=Profile%20views&color=0e75b6&style=flat" alt="lifeofcapo" />
+<img src="https://komarev.com/ghpvc/?username=lifeofcapo&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="Profile views" />
 
 </div>
 
